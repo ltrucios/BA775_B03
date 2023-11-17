@@ -1,0 +1,704 @@
+zip,type,primary_city,state,county,timezone,world_region,country,latitude,longitude
+1001,STANDARD,Agawam,MA,Hampden County,America/New_York,NA,US,42.06,-72.61
+1002,STANDARD,Amherst,MA,Hampshire County,America/New_York,NA,US,42.37,-72.52
+1003,STANDARD,Amherst,MA,Hampshire County,America/New_York,NA,US,42.39,-72.52
+1004,PO BOX,Amherst,MA,Hampshire County,America/New_York,NA,US,42.37,-72.52
+1005,STANDARD,Barre,MA,Worcester County,America/New_York,NA,US,42.42,-72.1
+1007,STANDARD,Belchertown,MA,Hampshire County,America/New_York,NA,US,42.27,-72.4
+1008,STANDARD,Blandford,MA,Hampden County,America/New_York,NA,US,42.18,-72.93
+1009,PO BOX,Bondsville,MA,Hampden County,America/New_York,NA,US,42.21,-72.34
+1010,STANDARD,Brimfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.2
+1011,STANDARD,Chester,MA,Hampden County,America/New_York,NA,US,42.28,-72.98
+1012,STANDARD,Chesterfield,MA,Hampshire County,America/New_York,NA,US,42.4,-72.85
+1013,STANDARD,Chicopee,MA,Hampden County,America/New_York,NA,US,42.15,-72.6
+1014,PO BOX,Chicopee,MA,Hampden County,America/New_York,NA,US,42.17,-72.57
+1020,STANDARD,Chicopee,MA,Hampden County,America/New_York,NA,US,42.17,-72.57
+1021,PO BOX,Chicopee,MA,Hampden County,America/New_York,NA,US,42.17,-72.57
+1022,STANDARD,Chicopee,MA,Hampden County,America/New_York,NA,US,42.2,-72.54
+1026,STANDARD,Cummington,MA,Hampshire County,America/New_York,NA,US,42.46,-72.9
+1027,STANDARD,Easthampton,MA,Hampshire County,America/New_York,NA,US,42.26,-72.68
+1028,STANDARD,East Longmeadow,MA,Hampden County,America/New_York,NA,US,42.06,-72.51
+1029,PO BOX,East Otis,MA,Berkshire County,America/New_York,NA,US,42.17,-73.03
+1030,STANDARD,Feeding Hills,MA,Hampden County,America/New_York,NA,US,42.06,-72.67
+1031,STANDARD,Gilbertville,MA,Worcester County,America/New_York,NA,US,42.33,-72.2
+1032,STANDARD,Goshen,MA,Hampshire County,America/New_York,NA,US,42.46,-72.81
+1033,STANDARD,Granby,MA,Hampshire County,America/New_York,NA,US,42.26,-72.52
+1034,STANDARD,Granville,MA,Hampden County,America/New_York,NA,US,42.06,-72.86
+1035,STANDARD,Hadley,MA,Hampshire County,America/New_York,NA,US,42.35,-72.58
+1036,STANDARD,Hampden,MA,Hampden County,America/New_York,NA,US,42.06,-72.41
+1037,PO BOX,Hardwick,MA,Worcester County,America/New_York,NA,US,42.35,-72.2
+1038,STANDARD,Hatfield,MA,Hampshire County,America/New_York,NA,US,42.37,-72.6
+1039,STANDARD,Haydenville,MA,Hampshire County,America/New_York,NA,US,42.39,-72.7
+1040,STANDARD,Holyoke,MA,Hampden County,America/New_York,NA,US,42.21,-72.64
+1041,PO BOX,Holyoke,MA,Hampden County,America/New_York,NA,US,42.21,-72.64
+1050,STANDARD,Huntington,MA,Hampshire County,America/New_York,NA,US,42.23,-72.88
+1053,STANDARD,Leeds,MA,Hampshire County,America/New_York,NA,US,42.35,-72.71
+1054,STANDARD,Leverett,MA,Franklin County,America/New_York,NA,US,42.45,-72.5
+1056,STANDARD,Ludlow,MA,Hampden County,America/New_York,NA,US,42.16,-72.48
+1057,STANDARD,Monson,MA,Hampden County,America/New_York,NA,US,42.09,-72.31
+1059,PO BOX,North Amherst,MA,Hampshire County,America/New_York,NA,US,42.4,-72.52
+1060,STANDARD,Northampton,MA,Hampshire County,America/New_York,NA,US,42.32,-72.63
+1061,PO BOX,Northampton,MA,Hampshire County,America/New_York,NA,US,42.32,-72.67
+1062,STANDARD,Florence,MA,Hampshire County,America/New_York,NA,US,42.32,-72.67
+1063,UNIQUE,Northampton,MA,Hampshire County,America/New_York,NA,US,42.32,-72.64
+1066,PO BOX,North Hatfield,MA,Hampshire County,America/New_York,NA,US,42.41,-72.66
+1068,STANDARD,Oakham,MA,Worcester County,America/New_York,NA,US,42.35,-72.05
+1069,STANDARD,Palmer,MA,Hampden County,America/New_York,NA,US,42.16,-72.32
+1070,STANDARD,Plainfield,MA,Hampshire County,America/New_York,NA,US,42.51,-72.91
+1071,STANDARD,Russell,MA,Hampden County,America/New_York,NA,US,42.18,-72.85
+1072,STANDARD,Shutesbury,MA,Franklin County,America/New_York,NA,US,42.45,-72.4
+1073,STANDARD,Southampton,MA,Hampshire County,America/New_York,NA,US,42.23,-72.73
+1074,PO BOX,South Barre,MA,Worcester County,America/New_York,NA,US,42.38,-72.1
+1075,STANDARD,South Hadley,MA,Hampshire County,America/New_York,NA,US,42.26,-72.56
+1077,STANDARD,Southwick,MA,Hampden County,America/New_York,NA,US,42.05,-72.76
+1079,PO BOX,Thorndike,MA,Hampden County,America/New_York,NA,US,42.2,-72.33
+1080,STANDARD,Three Rivers,MA,Hampden County,America/New_York,NA,US,42.18,-72.37
+1081,STANDARD,Wales,MA,Hampden County,America/New_York,NA,US,42.06,-72.21
+1082,STANDARD,Ware,MA,Hampshire County,America/New_York,NA,US,42.25,-72.24
+1083,PO BOX,Warren,MA,Worcester County,America/New_York,NA,US,42.21,-72.19
+1084,STANDARD,West Chesterfield,MA,Hampshire County,America/New_York,NA,US,42.39,-72.88
+1085,STANDARD,Westfield,MA,Hampden County,America/New_York,NA,US,42.13,-72.75
+1086,PO BOX,Westfield,MA,Hampden County,America/New_York,NA,US,42.13,-72.79
+1088,STANDARD,West Hatfield,MA,Hampshire County,America/New_York,NA,US,42.39,-72.64
+1089,STANDARD,West Springfield,MA,Hampden County,America/New_York,NA,US,42.12,-72.65
+1090,PO BOX,West Springfield,MA,Hampden County,America/New_York,NA,US,42.12,-72.65
+1092,PO BOX,West Warren,MA,Worcester County,America/New_York,NA,US,42.19,-72.24
+1093,PO BOX,Whately,MA,Franklin County,America/New_York,NA,US,42.44,-72.65
+1094,PO BOX,Wheelwright,MA,Worcester County,America/New_York,NA,US,42.37,-72.14
+1095,STANDARD,Wilbraham,MA,Hampden County,America/New_York,NA,US,42.13,-72.43
+1096,STANDARD,Williamsburg,MA,Hampshire County,America/New_York,NA,US,42.4,-72.76
+1097,PO BOX,Woronoco,MA,Hampden County,America/New_York,NA,US,42.18,-72.83
+1098,STANDARD,Worthington,MA,Hampshire County,America/New_York,NA,US,42.41,-72.93
+1101,PO BOX,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1102,PO BOX,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1103,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.1,-72.59
+1104,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.13,-72.57
+1105,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.1,-72.58
+1106,STANDARD,Longmeadow,MA,Hampden County,America/New_York,NA,US,42.04,-72.57
+1107,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.12,-72.61
+1108,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.08,-72.56
+1109,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1111,UNIQUE,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1115,PO BOX,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1116,PO BOX,Longmeadow,MA,Hampden County,America/New_York,NA,US,42.04,-72.57
+1118,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.09,-72.53
+1119,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.12,-72.51
+1128,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.09,-72.49
+1129,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.12,-72.49
+1133,UNIQUE,Springfield,MA,Hampden County,America/New_York,NA,US,42.1,-72.59
+1138,PO BOX,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1139,PO BOX,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1144,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.1,-72.59
+1151,STANDARD,Indian Orchard,MA,Hampden County,America/New_York,NA,US,42.15,-72.51
+1152,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.11,-72.53
+1195,STANDARD,Springfield,MA,Hampden County,America/New_York,NA,US,42.1,-72.58
+1199,UNIQUE,Springfield,MA,Hampden County,America/New_York,NA,US,42.12,-72.6
+1201,STANDARD,Pittsfield,MA,Berkshire County,America/New_York,NA,US,42.45,-73.26
+1202,PO BOX,Pittsfield,MA,Berkshire County,America/New_York,NA,US,42.45,-73.26
+1203,PO BOX,Pittsfield,MA,Berkshire County,America/New_York,NA,US,42.45,-73.26
+1220,STANDARD,Adams,MA,Berkshire County,America/New_York,NA,US,42.62,-73.11
+1222,STANDARD,Ashley Falls,MA,Berkshire County,America/New_York,NA,US,42.05,-73.33
+1223,STANDARD,Becket,MA,Berkshire County,America/New_York,NA,US,42.33,-73.07
+1224,STANDARD,Berkshire,MA,Berkshire County,America/New_York,NA,US,42.5,-73.2
+1225,STANDARD,Cheshire,MA,Berkshire County,America/New_York,NA,US,42.55,-73.15
+1226,STANDARD,Dalton,MA,Berkshire County,America/New_York,NA,US,42.47,-73.16
+1227,PO BOX,Dalton,MA,Berkshire County,America/New_York,NA,US,42.47,-73.16
+1229,PO BOX,Glendale,MA,Berkshire County,America/New_York,NA,US,42.28,-73.34
+1230,STANDARD,Great Barrington,MA,Berkshire County,America/New_York,NA,US,42.19,-73.35
+1235,STANDARD,Hinsdale,MA,Berkshire County,America/New_York,NA,US,42.42,-73.07
+1236,STANDARD,Housatonic,MA,Berkshire County,America/New_York,NA,US,42.27,-73.38
+1237,STANDARD,Lanesborough,MA,Berkshire County,America/New_York,NA,US,42.51,-73.22
+1238,STANDARD,Lee,MA,Berkshire County,America/New_York,NA,US,42.3,-73.25
+1240,STANDARD,Lenox,MA,Berkshire County,America/New_York,NA,US,42.35,-73.28
+1242,PO BOX,Lenox Dale,MA,Berkshire County,America/New_York,NA,US,42.33,-73.25
+1243,PO BOX,Middlefield,MA,Hampshire County,America/New_York,NA,US,42.35,-73.01
+1244,PO BOX,Mill River,MA,Berkshire County,America/New_York,NA,US,42.12,-73.26
+1245,STANDARD,Monterey,MA,Berkshire County,America/New_York,NA,US,42.18,-73.21
+1247,STANDARD,North Adams,MA,Berkshire County,America/New_York,NA,US,42.68,-73.11
+1252,STANDARD,North Egremont,MA,Berkshire County,America/New_York,NA,US,42.17,-73.44
+1253,STANDARD,Otis,MA,Berkshire County,America/New_York,NA,US,42.21,-73.11
+1254,STANDARD,Richmond,MA,Berkshire County,America/New_York,NA,US,42.37,-73.36
+1255,STANDARD,Sandisfield,MA,Berkshire County,America/New_York,NA,US,42.11,-73.13
+1256,STANDARD,Savoy,MA,Berkshire County,America/New_York,NA,US,42.56,-73.02
+1257,STANDARD,Sheffield,MA,Berkshire County,America/New_York,NA,US,42.1,-73.34
+1258,PO BOX,South Egremont,MA,Berkshire County,America/New_York,NA,US,42.11,-73.46
+1259,STANDARD,Southfield,MA,Berkshire County,America/New_York,NA,US,42.07,-73.23
+1260,PO BOX,South Lee,MA,Berkshire County,America/New_York,NA,US,42.26,-73.28
+1262,PO BOX,Stockbridge,MA,Berkshire County,America/New_York,NA,US,42.3,-73.32
+1263,UNIQUE,Stockbridge,MA,Berkshire County,America/New_York,NA,US,42.3,-73.32
+1264,PO BOX,Tyringham,MA,Berkshire County,America/New_York,NA,US,42.24,-73.19
+1266,STANDARD,West Stockbridge,MA,Berkshire County,America/New_York,NA,US,42.31,-73.39
+1267,STANDARD,Williamstown,MA,Berkshire County,America/New_York,NA,US,42.7,-73.2
+1270,STANDARD,Windsor,MA,Berkshire County,America/New_York,NA,US,42.51,-73.04
+1301,STANDARD,Greenfield,MA,Franklin County,America/New_York,NA,US,42.58,-72.59
+1302,PO BOX,Greenfield,MA,Franklin County,America/New_York,NA,US,42.58,-72.59
+1330,STANDARD,Ashfield,MA,Franklin County,America/New_York,NA,US,42.53,-72.78
+1331,STANDARD,Athol,MA,Worcester County,America/New_York,NA,US,42.59,-72.23
+1337,STANDARD,Bernardston,MA,Franklin County,America/New_York,NA,US,42.66,-72.55
+1338,STANDARD,Buckland,MA,Franklin County,America/New_York,NA,US,42.58,-72.81
+1339,STANDARD,Charlemont,MA,Franklin County,America/New_York,NA,US,42.63,-72.88
+1340,STANDARD,Colrain,MA,Franklin County,America/New_York,NA,US,42.66,-72.68
+1341,STANDARD,Conway,MA,Franklin County,America/New_York,NA,US,42.51,-72.68
+1342,STANDARD,Deerfield,MA,Franklin County,America/New_York,NA,US,42.55,-72.6
+1343,STANDARD,Drury,MA,Berkshire County,America/New_York,NA,US,42.66,-72.98
+1344,STANDARD,Erving,MA,Franklin County,America/New_York,NA,US,42.6,-72.4
+1346,STANDARD,Heath,MA,Franklin County,America/New_York,NA,US,42.66,-72.83
+1347,PO BOX,Lake Pleasant,MA,Franklin County,America/New_York,NA,US,42.56,-72.51
+1349,STANDARD,Millers Falls,MA,Franklin County,America/New_York,NA,US,42.56,-72.48
+1350,PO BOX,Monroe Bridge,MA,Franklin County,America/New_York,NA,US,42.72,-72.98
+1351,STANDARD,Montague,MA,Franklin County,America/New_York,NA,US,42.53,-72.53
+1354,STANDARD,Gill,MA,Franklin County,America/New_York,NA,US,42.62,-72.51
+1355,STANDARD,New Salem,MA,Franklin County,America/New_York,NA,US,42.5,-72.33
+1360,STANDARD,Northfield,MA,Franklin County,America/New_York,NA,US,42.7,-72.43
+1364,STANDARD,Orange,MA,Franklin County,America/New_York,NA,US,42.59,-72.3
+1366,STANDARD,Petersham,MA,Worcester County,America/New_York,NA,US,42.48,-72.18
+1367,STANDARD,Rowe,MA,Franklin County,America/New_York,NA,US,42.7,-72.9
+1368,STANDARD,Royalston,MA,Worcester County,America/New_York,NA,US,42.68,-72.18
+1370,STANDARD,Shelburne Falls,MA,Franklin County,America/New_York,NA,US,42.6,-72.74
+1373,STANDARD,South Deerfield,MA,Franklin County,America/New_York,NA,US,42.47,-72.59
+1375,STANDARD,Sunderland,MA,Franklin County,America/New_York,NA,US,42.46,-72.58
+1376,STANDARD,Turners Falls,MA,Franklin County,America/New_York,NA,US,42.59,-72.55
+1378,STANDARD,Warwick,MA,Franklin County,America/New_York,NA,US,42.68,-72.33
+1379,STANDARD,Wendell,MA,Franklin County,America/New_York,NA,US,42.55,-72.4
+1380,STANDARD,Wendell Depot,MA,Franklin County,America/New_York,NA,US,42.59,-72.41
+1420,STANDARD,Fitchburg,MA,Worcester County,America/New_York,NA,US,42.58,-71.81
+1430,STANDARD,Ashburnham,MA,Worcester County,America/New_York,NA,US,42.63,-71.9
+1431,STANDARD,Ashby,MA,Middlesex County,America/New_York,NA,US,42.68,-71.81
+1432,STANDARD,Ayer,MA,Middlesex County,America/New_York,NA,US,42.56,-71.58
+1434,STANDARD,Devens,MA,Worcester County,America/New_York,NA,US,42.53,-71.61
+1436,STANDARD,Baldwinville,MA,Worcester County,America/New_York,NA,US,42.6,-72.07
+1438,PO BOX,East Templeton,MA,Worcester County,America/New_York,NA,US,42.56,-72.03
+1440,STANDARD,Gardner,MA,Worcester County,America/New_York,NA,US,42.58,-71.98
+1441,UNIQUE,Westminster,MA,Worcester County,America/New_York,NA,US,42.58,-71.98
+1450,STANDARD,Groton,MA,Middlesex County,America/New_York,NA,US,42.6,-71.57
+1451,STANDARD,Harvard,MA,Worcester County,America/New_York,NA,US,42.5,-71.58
+1452,STANDARD,Hubbardston,MA,Worcester County,America/New_York,NA,US,42.48,-72.01
+1453,STANDARD,Leominster,MA,Worcester County,America/New_York,NA,US,42.51,-71.77
+1460,STANDARD,Littleton,MA,Middlesex County,America/New_York,NA,US,42.53,-71.47
+1462,STANDARD,Lunenburg,MA,Worcester County,America/New_York,NA,US,42.59,-71.72
+1463,STANDARD,Pepperell,MA,Middlesex County,America/New_York,NA,US,42.66,-71.58
+1464,STANDARD,Shirley,MA,Middlesex County,America/New_York,NA,US,42.54,-71.65
+1467,PO BOX,Still River,MA,Worcester County,America/New_York,NA,US,42.49,-71.61
+1468,STANDARD,Templeton,MA,Worcester County,America/New_York,NA,US,42.55,-72.06
+1469,STANDARD,Townsend,MA,Middlesex County,America/New_York,NA,US,42.66,-71.7
+1470,UNIQUE,Groton,MA,Middlesex County,America/New_York,NA,US,42.6,-71.57
+1471,UNIQUE,Groton,MA,Middlesex County,America/New_York,NA,US,42.6,-71.57
+1472,PO BOX,West Groton,MA,Middlesex County,America/New_York,NA,US,42.61,-71.62
+1473,STANDARD,Westminster,MA,Worcester County,America/New_York,NA,US,42.55,-71.9
+1474,STANDARD,West Townsend,MA,Middlesex County,America/New_York,NA,US,42.66,-71.74
+1475,STANDARD,Winchendon,MA,Worcester County,America/New_York,NA,US,42.68,-72.04
+1477,PO BOX,Winchendon Springs,MA,Worcester County,America/New_York,NA,US,42.69,-72.01
+1501,STANDARD,Auburn,MA,Worcester County,America/New_York,NA,US,42.2,-71.83
+1503,STANDARD,Berlin,MA,Worcester County,America/New_York,NA,US,42.38,-71.63
+1504,STANDARD,Blackstone,MA,Worcester County,America/New_York,NA,US,42.04,-71.53
+1505,STANDARD,Boylston,MA,Worcester County,America/New_York,NA,US,42.35,-71.73
+1506,STANDARD,Brookfield,MA,Worcester County,America/New_York,NA,US,42.21,-72.1
+1507,STANDARD,Charlton,MA,Worcester County,America/New_York,NA,US,42.13,-71.96
+1508,PO BOX,Charlton City,MA,Worcester County,America/New_York,NA,US,42.13,-71.96
+1509,PO BOX,Charlton Depot,MA,Worcester County,America/New_York,NA,US,42.13,-71.96
+1510,STANDARD,Clinton,MA,Worcester County,America/New_York,NA,US,42.41,-71.68
+1515,STANDARD,East Brookfield,MA,Worcester County,America/New_York,NA,US,42.22,-72.04
+1516,STANDARD,Douglas,MA,Worcester County,America/New_York,NA,US,42.05,-71.73
+1517,PO BOX,East Princeton,MA,Worcester County,America/New_York,NA,US,42.46,-71.89
+1518,STANDARD,Fiskdale,MA,Worcester County,America/New_York,NA,US,42.12,-72.11
+1519,STANDARD,Grafton,MA,Worcester County,America/New_York,NA,US,42.2,-71.68
+1520,STANDARD,Holden,MA,Worcester County,America/New_York,NA,US,42.35,-71.85
+1521,STANDARD,Holland,MA,Hampden County,America/New_York,NA,US,42.05,-72.15
+1522,STANDARD,Jefferson,MA,Worcester County,America/New_York,NA,US,42.38,-71.87
+1523,STANDARD,Lancaster,MA,Worcester County,America/New_York,NA,US,42.45,-71.66
+1524,STANDARD,Leicester,MA,Worcester County,America/New_York,NA,US,42.25,-71.9
+1525,PO BOX,Linwood,MA,Worcester County,America/New_York,NA,US,42.1,-71.64
+1526,PO BOX,Manchaug,MA,Worcester County,America/New_York,NA,US,42.12,-71.76
+1527,STANDARD,Millbury,MA,Worcester County,America/New_York,NA,US,42.19,-71.76
+1529,STANDARD,Millville,MA,Worcester County,America/New_York,NA,US,42.03,-71.58
+1531,STANDARD,New Braintree,MA,Worcester County,America/New_York,NA,US,42.31,-72.13
+1532,STANDARD,Northborough,MA,Worcester County,America/New_York,NA,US,42.31,-71.64
+1534,STANDARD,Northbridge,MA,Worcester County,America/New_York,NA,US,42.15,-71.65
+1535,STANDARD,North Brookfield,MA,Worcester County,America/New_York,NA,US,42.27,-72.08
+1536,STANDARD,North Grafton,MA,Worcester County,America/New_York,NA,US,42.23,-71.69
+1537,STANDARD,North Oxford,MA,Worcester County,America/New_York,NA,US,42.16,-71.88
+1538,PO BOX,North Uxbridge,MA,Worcester County,America/New_York,NA,US,42.05,-71.64
+1540,STANDARD,Oxford,MA,Worcester County,America/New_York,NA,US,42.11,-71.87
+1541,STANDARD,Princeton,MA,Worcester County,America/New_York,NA,US,42.45,-71.86
+1542,STANDARD,Rochdale,MA,Worcester County,America/New_York,NA,US,42.2,-71.9
+1543,STANDARD,Rutland,MA,Worcester County,America/New_York,NA,US,42.36,-71.95
+1545,STANDARD,Shrewsbury,MA,Worcester County,America/New_York,NA,US,42.3,-71.71
+1546,UNIQUE,Shrewsbury,MA,Worcester County,America/New_York,NA,US,42.3,-71.71
+1550,STANDARD,Southbridge,MA,Worcester County,America/New_York,NA,US,42.08,-72.03
+1560,STANDARD,South Grafton,MA,Worcester County,America/New_York,NA,US,42.17,-71.68
+1561,PO BOX,South Lancaster,MA,Worcester County,America/New_York,NA,US,42.45,-71.69
+1562,STANDARD,Spencer,MA,Worcester County,America/New_York,NA,US,42.24,-71.99
+1564,STANDARD,Sterling,MA,Worcester County,America/New_York,NA,US,42.43,-71.75
+1566,STANDARD,Sturbridge,MA,Worcester County,America/New_York,NA,US,42.09,-72.06
+1568,STANDARD,Upton,MA,Worcester County,America/New_York,NA,US,42.17,-71.61
+1569,STANDARD,Uxbridge,MA,Worcester County,America/New_York,NA,US,42.08,-71.6
+1570,STANDARD,Webster,MA,Worcester County,America/New_York,NA,US,42.04,-71.87
+1571,STANDARD,Dudley,MA,Worcester County,America/New_York,NA,US,42.05,-71.93
+1580,UNIQUE,Westborough,MA,Worcester County,America/New_York,NA,US,42.26,-71.61
+1581,STANDARD,Westborough,MA,Worcester County,America/New_York,NA,US,42.26,-71.61
+1582,UNIQUE,Westborough,MA,Worcester County,America/New_York,NA,US,42.26,-71.61
+1583,STANDARD,West Boylston,MA,Worcester County,America/New_York,NA,US,42.36,-71.78
+1585,STANDARD,West Brookfield,MA,Worcester County,America/New_York,NA,US,42.23,-72.14
+1586,PO BOX,West Millbury,MA,Worcester County,America/New_York,NA,US,42.19,-71.76
+1588,STANDARD,Whitinsville,MA,Worcester County,America/New_York,NA,US,42.11,-71.67
+1590,STANDARD,Sutton,MA,Worcester County,America/New_York,NA,US,42.15,-71.76
+1601,PO BOX,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1602,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.27,-71.85
+1603,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.24,-71.84
+1604,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.25,-71.77
+1605,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.29,-71.79
+1606,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.32,-71.8
+1607,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.23,-71.79
+1608,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1609,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.29,-71.83
+1610,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.25,-71.81
+1611,STANDARD,Cherry Valley,MA,Worcester County,America/New_York,NA,US,42.23,-71.87
+1612,STANDARD,Paxton,MA,Worcester County,America/New_York,NA,US,42.31,-71.93
+1613,PO BOX,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1614,PO BOX,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1615,PO BOX,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1653,UNIQUE,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1654,UNIQUE,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1655,STANDARD,Worcester,MA,Worcester County,America/New_York,NA,US,42.26,-71.8
+1701,STANDARD,Framingham,MA,Middlesex County,America/New_York,NA,US,42.3,-71.43
+1702,STANDARD,Framingham,MA,Middlesex County,America/New_York,NA,US,42.28,-71.44
+1703,PO BOX,Framingham,MA,Middlesex County,America/New_York,NA,US,42.3,-71.43
+1704,PO BOX,Framingham,MA,Middlesex County,America/New_York,NA,US,42.3,-71.43
+1705,PO BOX,Framingham,MA,Middlesex County,America/New_York,NA,US,42.3,-71.43
+1718,STANDARD,Acton,MA,Middlesex County,America/New_York,NA,US,42.52,-71.43
+1719,STANDARD,Boxborough,MA,Middlesex County,America/New_York,NA,US,42.5,-71.5
+1720,STANDARD,Acton,MA,Middlesex County,America/New_York,NA,US,42.48,-71.46
+1721,STANDARD,Ashland,MA,Middlesex County,America/New_York,NA,US,42.25,-71.46
+1730,STANDARD,Bedford,MA,Middlesex County,America/New_York,NA,US,42.48,-71.26
+1731,STANDARD,Hanscom AFB,MA,Middlesex County,America/New_York,NA,US,42.46,-71.28
+1740,STANDARD,Bolton,MA,Worcester County,America/New_York,NA,US,42.43,-71.6
+1741,STANDARD,Carlisle,MA,Middlesex County,America/New_York,NA,US,42.53,-71.35
+1742,STANDARD,Concord,MA,Middlesex County,America/New_York,NA,US,42.45,-71.35
+1745,STANDARD,Fayville,MA,Worcester County,America/New_York,NA,US,42.29,-71.5
+1746,STANDARD,Holliston,MA,Middlesex County,America/New_York,NA,US,42.2,-71.43
+1747,STANDARD,Hopedale,MA,Worcester County,America/New_York,NA,US,42.12,-71.54
+1748,STANDARD,Hopkinton,MA,Middlesex County,America/New_York,NA,US,42.22,-71.52
+1749,STANDARD,Hudson,MA,Middlesex County,America/New_York,NA,US,42.39,-71.56
+1752,STANDARD,Marlborough,MA,Middlesex County,America/New_York,NA,US,42.34,-71.54
+1754,STANDARD,Maynard,MA,Middlesex County,America/New_York,NA,US,42.42,-71.45
+1756,STANDARD,Mendon,MA,Worcester County,America/New_York,NA,US,42.1,-71.55
+1757,STANDARD,Milford,MA,Worcester County,America/New_York,NA,US,42.14,-71.51
+1760,STANDARD,Natick,MA,Middlesex County,America/New_York,NA,US,42.28,-71.35
+1770,STANDARD,Sherborn,MA,Middlesex County,America/New_York,NA,US,42.23,-71.36
+1772,STANDARD,Southborough,MA,Worcester County,America/New_York,NA,US,42.3,-71.51
+1773,STANDARD,Lincoln,MA,Middlesex County,America/New_York,NA,US,42.41,-71.3
+1775,STANDARD,Stow,MA,Middlesex County,America/New_York,NA,US,42.43,-71.5
+1776,STANDARD,Sudbury,MA,Middlesex County,America/New_York,NA,US,42.36,-71.4
+1778,STANDARD,Wayland,MA,Middlesex County,America/New_York,NA,US,42.36,-71.36
+1784,PO BOX,Woodville,MA,Middlesex County,America/New_York,NA,US,42.23,-71.55
+1801,STANDARD,Woburn,MA,Middlesex County,America/New_York,NA,US,42.48,-71.15
+1803,STANDARD,Burlington,MA,Middlesex County,America/New_York,NA,US,42.5,-71.2
+1805,UNIQUE,Burlington,MA,Middlesex County,America/New_York,NA,US,42.5,-71.2
+1806,UNIQUE,Woburn,MA,Middlesex County,America/New_York,NA,US,42.47,-71.15
+1807,UNIQUE,Woburn,MA,Middlesex County,America/New_York,NA,US,42.48,-71.15
+1808,UNIQUE,Woburn,MA,Middlesex County,America/New_York,NA,US,42.5,-71.12
+1810,STANDARD,Andover,MA,Essex County,America/New_York,NA,US,42.65,-71.14
+1812,UNIQUE,Andover,MA,Essex County,America/New_York,NA,US,42.65,-71.14
+1813,UNIQUE,Woburn,MA,Middlesex County,America/New_York,NA,US,42.48,-71.15
+1815,UNIQUE,Woburn,MA,Middlesex County,America/New_York,NA,US,42.48,-71.15
+1821,STANDARD,Billerica,MA,Middlesex County,America/New_York,NA,US,42.55,-71.26
+1822,PO BOX,Billerica,MA,Middlesex County,America/New_York,NA,US,42.55,-71.26
+1824,STANDARD,Chelmsford,MA,Middlesex County,America/New_York,NA,US,42.59,-71.36
+1826,STANDARD,Dracut,MA,Middlesex County,America/New_York,NA,US,42.68,-71.3
+1827,STANDARD,Dunstable,MA,Middlesex County,America/New_York,NA,US,42.66,-71.48
+1830,STANDARD,Haverhill,MA,Essex County,America/New_York,NA,US,42.78,-71.08
+1831,PO BOX,Haverhill,MA,Essex County,America/New_York,NA,US,42.78,-71.08
+1832,STANDARD,Haverhill,MA,Essex County,America/New_York,NA,US,42.79,-71.13
+1833,STANDARD,Georgetown,MA,Essex County,America/New_York,NA,US,42.73,-70.98
+1834,STANDARD,Groveland,MA,Essex County,America/New_York,NA,US,42.75,-71.03
+1835,STANDARD,Haverhill,MA,Essex County,America/New_York,NA,US,42.75,-71.09
+1840,STANDARD,Lawrence,MA,Essex County,America/New_York,NA,US,42.71,-71.16
+1841,STANDARD,Lawrence,MA,Essex County,America/New_York,NA,US,42.72,-71.15
+1842,PO BOX,Lawrence,MA,Essex County,America/New_York,NA,US,42.7,-71.16
+1843,STANDARD,Lawrence,MA,Essex County,America/New_York,NA,US,42.7,-71.16
+1844,STANDARD,Methuen,MA,Essex County,America/New_York,NA,US,42.74,-71.18
+1845,STANDARD,North Andover,MA,Essex County,America/New_York,NA,US,42.7,-71.11
+1850,STANDARD,Lowell,MA,Middlesex County,America/New_York,NA,US,42.66,-71.3
+1851,STANDARD,Lowell,MA,Middlesex County,America/New_York,NA,US,42.63,-71.32
+1852,STANDARD,Lowell,MA,Middlesex County,America/New_York,NA,US,42.63,-71.3
+1853,PO BOX,Lowell,MA,Middlesex County,America/New_York,NA,US,42.63,-71.32
+1854,STANDARD,Lowell,MA,Middlesex County,America/New_York,NA,US,42.65,-71.35
+1860,STANDARD,Merrimac,MA,Essex County,America/New_York,NA,US,42.83,-71
+1862,STANDARD,North Billerica,MA,Middlesex County,America/New_York,NA,US,42.58,-71.3
+1863,STANDARD,North Chelmsford,MA,Middlesex County,America/New_York,NA,US,42.63,-71.39
+1864,STANDARD,North Reading,MA,Middlesex County,America/New_York,NA,US,42.58,-71.08
+1865,PO BOX,Nutting Lake,MA,Middlesex County,America/New_York,NA,US,42.54,-71.25
+1866,PO BOX,Pinehurst,MA,Middlesex County,America/New_York,NA,US,42.53,-71.23
+1867,STANDARD,Reading,MA,Middlesex County,America/New_York,NA,US,42.53,-71.1
+1876,STANDARD,Tewksbury,MA,Middlesex County,America/New_York,NA,US,42.61,-71.23
+1879,STANDARD,Tyngsboro,MA,Middlesex County,America/New_York,NA,US,42.68,-71.41
+1880,STANDARD,Wakefield,MA,Middlesex County,America/New_York,NA,US,42.5,-71.06
+1885,PO BOX,West Boxford,MA,Essex County,America/New_York,NA,US,42.67,-71.03
+1886,STANDARD,Westford,MA,Middlesex County,America/New_York,NA,US,42.58,-71.43
+1887,STANDARD,Wilmington,MA,Middlesex County,America/New_York,NA,US,42.55,-71.16
+1888,PO BOX,Woburn,MA,Middlesex County,America/New_York,NA,US,42.48,-71.15
+1889,UNIQUE,North Reading,MA,Middlesex County,America/New_York,NA,US,42.56,-71.06
+1890,STANDARD,Winchester,MA,Middlesex County,America/New_York,NA,US,42.45,-71.14
+1899,UNIQUE,Andover,MA,Essex County,America/New_York,NA,US,42.65,-71.14
+1901,STANDARD,Lynn,MA,Essex County,America/New_York,NA,US,42.46,-70.95
+1902,STANDARD,Lynn,MA,Essex County,America/New_York,NA,US,42.47,-70.94
+1903,PO BOX,Lynn,MA,Essex County,America/New_York,NA,US,42.47,-70.96
+1904,STANDARD,Lynn,MA,Essex County,America/New_York,NA,US,42.47,-70.96
+1905,STANDARD,Lynn,MA,Essex County,America/New_York,NA,US,42.47,-70.98
+1906,STANDARD,Saugus,MA,Essex County,America/New_York,NA,US,42.46,-71.01
+1907,STANDARD,Swampscott,MA,Essex County,America/New_York,NA,US,42.47,-70.91
+1908,STANDARD,Nahant,MA,Essex County,America/New_York,NA,US,42.43,-70.93
+1910,UNIQUE,Lynn,MA,Essex County,America/New_York,NA,US,42.47,-70.96
+1913,STANDARD,Amesbury,MA,Essex County,America/New_York,NA,US,42.85,-70.92
+1915,STANDARD,Beverly,MA,Essex County,America/New_York,NA,US,42.57,-70.87
+1921,STANDARD,Boxford,MA,Essex County,America/New_York,NA,US,42.67,-70.98
+1922,STANDARD,Byfield,MA,Essex County,America/New_York,NA,US,42.75,-70.93
+1923,STANDARD,Danvers,MA,Essex County,America/New_York,NA,US,42.57,-70.95
+1929,STANDARD,Essex,MA,Essex County,America/New_York,NA,US,42.63,-70.77
+1930,STANDARD,Gloucester,MA,Essex County,America/New_York,NA,US,42.62,-70.66
+1931,PO BOX,Gloucester,MA,Essex County,America/New_York,NA,US,42.62,-70.66
+1936,PO BOX,Hamilton,MA,Essex County,America/New_York,NA,US,42.61,-70.86
+1937,PO BOX,Hathorne,MA,Essex County,America/New_York,NA,US,42.59,-70.98
+1938,STANDARD,Ipswich,MA,Essex County,America/New_York,NA,US,42.67,-70.83
+1940,STANDARD,Lynnfield,MA,Essex County,America/New_York,NA,US,42.53,-71.04
+1944,STANDARD,Manchester,MA,Essex County,America/New_York,NA,US,42.56,-70.76
+1945,STANDARD,Marblehead,MA,Essex County,America/New_York,NA,US,42.5,-70.85
+1949,STANDARD,Middleton,MA,Essex County,America/New_York,NA,US,42.6,-71.01
+1950,STANDARD,Newburyport,MA,Essex County,America/New_York,NA,US,42.81,-70.88
+1951,STANDARD,Newbury,MA,Essex County,America/New_York,NA,US,42.77,-70.85
+1952,STANDARD,Salisbury,MA,Essex County,America/New_York,NA,US,42.83,-70.84
+1960,STANDARD,Peabody,MA,Essex County,America/New_York,NA,US,42.53,-70.97
+1961,PO BOX,Peabody,MA,Essex County,America/New_York,NA,US,42.53,-70.97
+1965,PO BOX,Prides Crossing,MA,Essex County,America/New_York,NA,US,42.56,-70.82
+1966,STANDARD,Rockport,MA,Essex County,America/New_York,NA,US,42.64,-70.61
+1969,STANDARD,Rowley,MA,Essex County,America/New_York,NA,US,42.72,-70.89
+1970,STANDARD,Salem,MA,Essex County,America/New_York,NA,US,42.51,-70.9
+1971,PO BOX,Salem,MA,Essex County,America/New_York,NA,US,42.51,-70.89
+1982,STANDARD,South Hamilton,MA,Essex County,America/New_York,NA,US,42.62,-70.86
+1983,STANDARD,Topsfield,MA,Essex County,America/New_York,NA,US,42.63,-70.95
+1984,STANDARD,Wenham,MA,Essex County,America/New_York,NA,US,42.6,-70.88
+1985,STANDARD,West Newbury,MA,Essex County,America/New_York,NA,US,42.8,-71
+2018,PO BOX,Accord,MA,Plymouth County,America/New_York,NA,US,42.17,-70.88
+2019,STANDARD,Bellingham,MA,Norfolk County,America/New_York,NA,US,42.09,-71.47
+2020,PO BOX,Brant Rock,MA,Plymouth County,America/New_York,NA,US,42.08,-70.64
+2021,STANDARD,Canton,MA,Norfolk County,America/New_York,NA,US,42.15,-71.13
+2025,STANDARD,Cohasset,MA,Norfolk County,America/New_York,NA,US,42.23,-70.8
+2026,STANDARD,Dedham,MA,Norfolk County,America/New_York,NA,US,42.24,-71.17
+2027,PO BOX,Dedham,MA,Norfolk County,America/New_York,NA,US,42.24,-71.17
+2030,STANDARD,Dover,MA,Norfolk County,America/New_York,NA,US,42.24,-71.27
+2031,STANDARD,East Mansfield,MA,Bristol County,America/New_York,NA,US,42.02,-71.17
+2032,STANDARD,East Walpole,MA,Norfolk County,America/New_York,NA,US,42.15,-71.21
+2035,STANDARD,Foxboro,MA,Norfolk County,America/New_York,NA,US,42.06,-71.24
+2038,STANDARD,Franklin,MA,Norfolk County,America/New_York,NA,US,42.08,-71.38
+2040,PO BOX,Greenbush,MA,Plymouth County,America/New_York,NA,US,42.19,-70.76
+2041,PO BOX,Green Harbor,MA,Plymouth County,America/New_York,NA,US,42.1,-70.71
+2043,STANDARD,Hingham,MA,Plymouth County,America/New_York,NA,US,42.23,-70.88
+2044,UNIQUE,Hingham,MA,Plymouth County,America/New_York,NA,US,42.23,-70.88
+2045,STANDARD,Hull,MA,Plymouth County,America/New_York,NA,US,42.3,-70.9
+2047,PO BOX,Humarock,MA,Plymouth County,America/New_York,NA,US,42.15,-70.7
+2048,STANDARD,Mansfield,MA,Bristol County,America/New_York,NA,US,42.02,-71.21
+2050,STANDARD,Marshfield,MA,Plymouth County,America/New_York,NA,US,42.09,-70.7
+2051,PO BOX,Marshfield Hills,MA,Plymouth County,America/New_York,NA,US,42.15,-70.73
+2052,STANDARD,Medfield,MA,Norfolk County,America/New_York,NA,US,42.18,-71.3
+2053,STANDARD,Medway,MA,Norfolk County,America/New_York,NA,US,42.16,-71.43
+2054,STANDARD,Millis,MA,Norfolk County,America/New_York,NA,US,42.16,-71.35
+2055,PO BOX,Minot,MA,Plymouth County,America/New_York,NA,US,42.19,-70.76
+2056,STANDARD,Norfolk,MA,Norfolk County,America/New_York,NA,US,42.11,-71.31
+2059,PO BOX,North Marshfield,MA,Plymouth County,America/New_York,NA,US,42.1,-70.71
+2060,PO BOX,North Scituate,MA,Plymouth County,America/New_York,NA,US,42.21,-70.76
+2061,STANDARD,Norwell,MA,Plymouth County,America/New_York,NA,US,42.16,-70.78
+2062,STANDARD,Norwood,MA,Norfolk County,America/New_York,NA,US,42.18,-71.19
+2065,PO BOX,Ocean Bluff,MA,Plymouth County,America/New_York,NA,US,42.1,-70.71
+2066,STANDARD,Scituate,MA,Plymouth County,America/New_York,NA,US,42.18,-70.73
+2067,STANDARD,Sharon,MA,Norfolk County,America/New_York,NA,US,42.11,-71.18
+2070,PO BOX,Sheldonville,MA,Norfolk County,America/New_York,NA,US,42.05,-71.35
+2071,STANDARD,South Walpole,MA,Norfolk County,America/New_York,NA,US,42.1,-71.27
+2072,STANDARD,Stoughton,MA,Norfolk County,America/New_York,NA,US,42.11,-71.1
+2081,STANDARD,Walpole,MA,Norfolk County,America/New_York,NA,US,42.13,-71.24
+2090,STANDARD,Westwood,MA,Norfolk County,America/New_York,NA,US,42.21,-71.21
+2093,STANDARD,Wrentham,MA,Norfolk County,America/New_York,NA,US,42.06,-71.33
+2108,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.36,-71.06
+2109,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.37,-71.05
+2110,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.36,-71.05
+2111,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2112,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2113,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.37,-71.06
+2114,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.36,-71.07
+2115,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.34,-71.09
+2116,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.08
+2117,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2118,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.34,-71.07
+2119,STANDARD,Roxbury,MA,Suffolk County,America/New_York,NA,US,42.32,-71.09
+2120,STANDARD,Roxbury Crossing,MA,Suffolk County,America/New_York,NA,US,42.33,-71.1
+2121,STANDARD,Dorchester,MA,Suffolk County,America/New_York,NA,US,42.31,-71.09
+2122,STANDARD,Dorchester,MA,Suffolk County,America/New_York,NA,US,42.29,-71.04
+2123,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2124,STANDARD,Dorchester Center,MA,Suffolk County,America/New_York,NA,US,42.29,-71.07
+2125,STANDARD,Dorchester,MA,Suffolk County,America/New_York,NA,US,42.32,-71.06
+2126,STANDARD,Mattapan,MA,Suffolk County,America/New_York,NA,US,42.27,-71.1
+2127,STANDARD,South Boston,MA,Suffolk County,America/New_York,NA,US,42.33,-71.04
+2128,STANDARD,East Boston,MA,Suffolk County,America/New_York,NA,US,42.36,-71.01
+2129,STANDARD,Charlestown,MA,Suffolk County,America/New_York,NA,US,42.38,-71.06
+2130,STANDARD,Jamaica Plain,MA,Suffolk County,America/New_York,NA,US,42.3,-71.11
+2131,STANDARD,Roslindale,MA,Suffolk County,America/New_York,NA,US,42.28,-71.13
+2132,STANDARD,West Roxbury,MA,Suffolk County,America/New_York,NA,US,42.28,-71.16
+2133,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.36,-71.06
+2134,STANDARD,Allston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.13
+2135,STANDARD,Brighton,MA,Suffolk County,America/New_York,NA,US,42.35,-71.15
+2136,STANDARD,Hyde Park,MA,Suffolk County,America/New_York,NA,US,42.26,-71.13
+2137,PO BOX,Readville,MA,Suffolk County,America/New_York,NA,US,42.25,-71.12
+2138,STANDARD,Cambridge,MA,Middlesex County,America/New_York,NA,US,42.38,-71.14
+2139,STANDARD,Cambridge,MA,Middlesex County,America/New_York,NA,US,42.36,-71.1
+2140,STANDARD,Cambridge,MA,Middlesex County,America/New_York,NA,US,42.39,-71.13
+2141,STANDARD,Cambridge,MA,Middlesex County,America/New_York,NA,US,42.37,-71.08
+2142,STANDARD,Cambridge,MA,Middlesex County,America/New_York,NA,US,42.36,-71.08
+2143,STANDARD,Somerville,MA,Middlesex County,America/New_York,NA,US,42.38,-71.1
+2144,STANDARD,Somerville,MA,Middlesex County,America/New_York,NA,US,42.4,-71.12
+2145,STANDARD,Somerville,MA,Middlesex County,America/New_York,NA,US,42.39,-71.1
+2148,STANDARD,Malden,MA,Middlesex County,America/New_York,NA,US,42.43,-71.05
+2149,STANDARD,Everett,MA,Middlesex County,America/New_York,NA,US,42.4,-71.05
+2150,STANDARD,Chelsea,MA,Suffolk County,America/New_York,NA,US,42.39,-71.03
+2151,STANDARD,Revere,MA,Suffolk County,America/New_York,NA,US,42.41,-70.99
+2152,STANDARD,Winthrop,MA,Suffolk County,America/New_York,NA,US,42.38,-70.98
+2153,PO BOX,Medford,MA,Middlesex County,America/New_York,NA,US,42.42,-71.1
+2155,STANDARD,Medford,MA,Middlesex County,America/New_York,NA,US,42.42,-71.1
+2156,PO BOX,West Medford,MA,Middlesex County,America/New_York,NA,US,42.42,-71.13
+2163,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.37,-71.13
+2169,STANDARD,Quincy,MA,Norfolk County,America/New_York,NA,US,42.26,-71
+2170,STANDARD,Quincy,MA,Norfolk County,America/New_York,NA,US,42.27,-71.02
+2171,STANDARD,Quincy,MA,Norfolk County,America/New_York,NA,US,42.29,-71.02
+2176,STANDARD,Melrose,MA,Middlesex County,America/New_York,NA,US,42.45,-71.05
+2180,STANDARD,Stoneham,MA,Middlesex County,America/New_York,NA,US,42.47,-71.09
+2184,STANDARD,Braintree,MA,Norfolk County,America/New_York,NA,US,42.2,-71
+2185,PO BOX,Braintree,MA,Norfolk County,America/New_York,NA,US,42.2,-71
+2186,STANDARD,Milton,MA,Norfolk County,America/New_York,NA,US,42.24,-71.08
+2187,PO BOX,Milton Village,MA,Norfolk County,America/New_York,NA,US,42.26,-71.08
+2188,STANDARD,Weymouth,MA,Norfolk County,America/New_York,NA,US,42.2,-70.96
+2189,STANDARD,East Weymouth,MA,Norfolk County,America/New_York,NA,US,42.2,-70.94
+2190,STANDARD,South Weymouth,MA,Norfolk County,America/New_York,NA,US,42.17,-70.95
+2191,STANDARD,North Weymouth,MA,Norfolk County,America/New_York,NA,US,42.24,-70.94
+2196,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2199,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.08
+2201,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2203,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.36,-71.06
+2204,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2205,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2206,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2207,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.05
+2210,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.04
+2211,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2212,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2215,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.1
+2216,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.34,-71.07
+2217,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2222,STANDARD,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2228,PO BOX,East Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2238,PO BOX,Cambridge,MA,Middlesex County,America/New_York,NA,US,42.37,-71.11
+2239,UNIQUE,Cambridge,MA,Middlesex County,America/New_York,NA,US,42.36,-71.1
+2241,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2266,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2269,PO BOX,Quincy,MA,Norfolk County,America/New_York,NA,US,42.26,-71
+2283,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2284,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2293,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2295,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2297,UNIQUE,Boston,MA,Suffolk County,America/New_York,NA,US,42.35,-71.06
+2298,PO BOX,Boston,MA,Suffolk County,America/New_York,NA,US,42.34,-71.05
+2301,STANDARD,Brockton,MA,Plymouth County,America/New_York,NA,US,42.08,-71.02
+2302,STANDARD,Brockton,MA,Plymouth County,America/New_York,NA,US,42.09,-71
+2303,PO BOX,Brockton,MA,Plymouth County,America/New_York,NA,US,42.08,-71.02
+2304,PO BOX,Brockton,MA,Plymouth County,America/New_York,NA,US,42.08,-71.02
+2305,PO BOX,Brockton,MA,Plymouth County,America/New_York,NA,US,42.08,-71.02
+2322,STANDARD,Avon,MA,Norfolk County,America/New_York,NA,US,42.13,-71.05
+2324,STANDARD,Bridgewater,MA,Plymouth County,America/New_York,NA,US,41.98,-70.97
+2325,UNIQUE,Bridgewater,MA,Plymouth County,America/New_York,NA,US,41.99,-70.96
+2327,PO BOX,Bryantville,MA,Plymouth County,America/New_York,NA,US,42.06,-70.8
+2330,STANDARD,Carver,MA,Plymouth County,America/New_York,NA,US,41.88,-70.76
+2331,PO BOX,Duxbury,MA,Plymouth County,America/New_York,NA,US,42.04,-70.67
+2332,STANDARD,Duxbury,MA,Plymouth County,America/New_York,NA,US,42.04,-70.67
+2333,STANDARD,East Bridgewater,MA,Plymouth County,America/New_York,NA,US,42.03,-70.95
+2334,PO BOX,Easton,MA,Bristol County,America/New_York,NA,US,42.03,-71.1
+2337,PO BOX,Elmwood,MA,Plymouth County,America/New_York,NA,US,42.01,-70.96
+2338,STANDARD,Halifax,MA,Plymouth County,America/New_York,NA,US,41.98,-70.86
+2339,STANDARD,Hanover,MA,Plymouth County,America/New_York,NA,US,42.11,-70.81
+2340,UNIQUE,Hanover,MA,Plymouth County,America/New_York,NA,US,42.11,-70.81
+2341,STANDARD,Hanson,MA,Plymouth County,America/New_York,NA,US,42.06,-70.85
+2343,STANDARD,Holbrook,MA,Norfolk County,America/New_York,NA,US,42.14,-71
+2344,UNIQUE,Middleboro,MA,Plymouth County,America/New_York,NA,US,41.86,-70.9
+2345,PO BOX,Manomet,MA,Plymouth County,America/New_York,NA,US,41.92,-70.56
+2346,STANDARD,Middleboro,MA,Plymouth County,America/New_York,NA,US,41.86,-70.9
+2347,STANDARD,Lakeville,MA,Plymouth County,America/New_York,NA,US,41.85,-70.95
+2348,UNIQUE,Lakeville,MA,Plymouth County,America/New_York,NA,US,41.86,-70.9
+2349,UNIQUE,Middleboro,MA,Plymouth County,America/New_York,NA,US,41.86,-70.9
+2350,PO BOX,Monponsett,MA,Plymouth County,America/New_York,NA,US,42.02,-70.85
+2351,STANDARD,Abington,MA,Plymouth County,America/New_York,NA,US,42.11,-70.95
+2355,PO BOX,North Carver,MA,Plymouth County,America/New_York,NA,US,41.91,-70.79
+2356,STANDARD,North Easton,MA,Bristol County,America/New_York,NA,US,42.05,-71.1
+2357,UNIQUE,North Easton,MA,Bristol County,America/New_York,NA,US,42.06,-71.08
+2358,PO BOX,North Pembroke,MA,Plymouth County,America/New_York,NA,US,42.09,-70.78
+2359,STANDARD,Pembroke,MA,Plymouth County,America/New_York,NA,US,42.06,-70.8
+2360,STANDARD,Plymouth,MA,Plymouth County,America/New_York,NA,US,41.95,-70.66
+2361,PO BOX,Plymouth,MA,Plymouth County,America/New_York,NA,US,41.95,-70.66
+2362,PO BOX,Plymouth,MA,Plymouth County,America/New_York,NA,US,41.95,-70.66
+2364,STANDARD,Kingston,MA,Plymouth County,America/New_York,NA,US,41.99,-70.71
+2366,PO BOX,South Carver,MA,Plymouth County,America/New_York,NA,US,41.85,-70.66
+2367,STANDARD,Plympton,MA,Plymouth County,America/New_York,NA,US,41.95,-70.81
+2368,STANDARD,Randolph,MA,Norfolk County,America/New_York,NA,US,42.17,-71.05
+2370,STANDARD,Rockland,MA,Plymouth County,America/New_York,NA,US,42.13,-70.91
+2375,STANDARD,South Easton,MA,Bristol County,America/New_York,NA,US,42.03,-71.1
+2379,STANDARD,West Bridgewater,MA,Plymouth County,America/New_York,NA,US,42.01,-71
+2381,PO BOX,White Horse Beach,MA,Plymouth County,America/New_York,NA,US,41.93,-70.59
+2382,STANDARD,Whitman,MA,Plymouth County,America/New_York,NA,US,42.08,-70.93
+2420,STANDARD,Lexington,MA,Middlesex County,America/New_York,NA,US,42.46,-71.22
+2421,STANDARD,Lexington,MA,Middlesex County,America/New_York,NA,US,42.44,-71.23
+2445,STANDARD,Brookline,MA,Norfolk County,America/New_York,NA,US,42.32,-71.14
+2446,STANDARD,Brookline,MA,Norfolk County,America/New_York,NA,US,42.34,-71.12
+2447,PO BOX,Brookline Village,MA,Norfolk County,America/New_York,NA,US,42.33,-71.13
+2451,STANDARD,Waltham,MA,Middlesex County,America/New_York,NA,US,42.38,-71.24
+2452,STANDARD,Waltham,MA,Middlesex County,America/New_York,NA,US,42.39,-71.22
+2453,STANDARD,Waltham,MA,Middlesex County,America/New_York,NA,US,42.37,-71.24
+2454,PO BOX,Waltham,MA,Middlesex County,America/New_York,NA,US,42.38,-71.24
+2455,PO BOX,North Waltham,MA,Middlesex County,America/New_York,NA,US,42.39,-71.22
+2456,PO BOX,New Town,MA,Middlesex County,America/New_York,NA,US,42.33,-71.2
+2457,PO BOX,Babson Park,MA,Norfolk County,America/New_York,NA,US,42.3,-71.27
+2458,STANDARD,Newton,MA,Middlesex County,America/New_York,NA,US,42.35,-71.19
+2459,STANDARD,Newton Center,MA,Middlesex County,America/New_York,NA,US,42.31,-71.19
+2460,STANDARD,Newtonville,MA,Middlesex County,America/New_York,NA,US,42.35,-71.2
+2461,STANDARD,Newton Highlands,MA,Middlesex County,America/New_York,NA,US,42.32,-71.21
+2462,STANDARD,Newton Lower Falls,MA,Middlesex County,America/New_York,NA,US,42.33,-71.26
+2464,STANDARD,Newton Upper Falls,MA,Middlesex County,America/New_York,NA,US,42.31,-71.22
+2465,STANDARD,West Newton,MA,Middlesex County,America/New_York,NA,US,42.35,-71.22
+2466,STANDARD,Auburndale,MA,Middlesex County,America/New_York,NA,US,42.34,-71.24
+2467,STANDARD,Chestnut Hill,MA,Middlesex County,America/New_York,NA,US,42.31,-71.16
+2468,STANDARD,Waban,MA,Middlesex County,America/New_York,NA,US,42.33,-71.23
+2471,PO BOX,Watertown,MA,Middlesex County,America/New_York,NA,US,42.36,-71.17
+2472,STANDARD,Watertown,MA,Middlesex County,America/New_York,NA,US,42.37,-71.18
+2474,STANDARD,Arlington,MA,Middlesex County,America/New_York,NA,US,42.42,-71.16
+2475,PO BOX,Arlington Heights,MA,Middlesex County,America/New_York,NA,US,42.41,-71.18
+2476,STANDARD,Arlington,MA,Middlesex County,America/New_York,NA,US,42.41,-71.16
+2477,UNIQUE,Watertown,MA,Middlesex County,America/New_York,NA,US,42.36,-71.17
+2478,STANDARD,Belmont,MA,Middlesex County,America/New_York,NA,US,42.39,-71.18
+2479,PO BOX,Waverley,MA,Middlesex County,America/New_York,NA,US,42.39,-71.17
+2481,STANDARD,Wellesley Hills,MA,Norfolk County,America/New_York,NA,US,42.31,-71.27
+2482,STANDARD,Wellesley,MA,Norfolk County,America/New_York,NA,US,42.29,-71.3
+2492,STANDARD,Needham,MA,Norfolk County,America/New_York,NA,US,42.28,-71.24
+2493,STANDARD,Weston,MA,Middlesex County,America/New_York,NA,US,42.36,-71.3
+2494,STANDARD,Needham Heights,MA,Norfolk County,America/New_York,NA,US,42.3,-71.23
+2495,PO BOX,Nonantum,MA,Middlesex County,America/New_York,NA,US,42.33,-71.2
+2532,STANDARD,Buzzards Bay,MA,Barnstable County,America/New_York,NA,US,41.75,-70.61
+2534,PO BOX,Cataumet,MA,Barnstable County,America/New_York,NA,US,41.66,-70.61
+2535,STANDARD,Chilmark,MA,Dukes County,America/New_York,NA,US,41.34,-70.74
+2536,STANDARD,East Falmouth,MA,Barnstable County,America/New_York,NA,US,41.56,-70.55
+2537,STANDARD,East Sandwich,MA,Barnstable County,America/New_York,NA,US,41.73,-70.43
+2538,STANDARD,East Wareham,MA,Plymouth County,America/New_York,NA,US,41.78,-70.65
+2539,STANDARD,Edgartown,MA,Dukes County,America/New_York,NA,US,41.38,-70.53
+2540,STANDARD,Falmouth,MA,Barnstable County,America/New_York,NA,US,41.56,-70.62
+2541,PO BOX,Falmouth,MA,Barnstable County,America/New_York,NA,US,41.54,-70.6
+2542,STANDARD,Buzzards Bay,MA,Barnstable County,America/New_York,NA,US,41.71,-70.55
+2543,STANDARD,Woods Hole,MA,Barnstable County,America/New_York,NA,US,41.52,-70.66
+2552,PO BOX,Menemsha,MA,Dukes County,America/New_York,NA,US,41.34,-70.73
+2553,PO BOX,Monument Beach,MA,Barnstable County,America/New_York,NA,US,41.71,-70.62
+2554,STANDARD,Nantucket,MA,Nantucket County,America/New_York,NA,US,41.27,-70.1
+2556,STANDARD,North Falmouth,MA,Barnstable County,America/New_York,NA,US,41.64,-70.63
+2557,PO BOX,Oak Bluffs,MA,Dukes County,America/New_York,NA,US,41.45,-70.56
+2558,PO BOX,Onset,MA,Plymouth County,America/New_York,NA,US,41.74,-70.66
+2559,STANDARD,Pocasset,MA,Barnstable County,America/New_York,NA,US,41.69,-70.63
+2561,PO BOX,Sagamore,MA,Barnstable County,America/New_York,NA,US,41.77,-70.53
+2562,STANDARD,Sagamore Beach,MA,Barnstable County,America/New_York,NA,US,41.79,-70.53
+2563,STANDARD,Sandwich,MA,Barnstable County,America/New_York,NA,US,41.75,-70.49
+2564,PO BOX,Siasconset,MA,Nantucket County,America/New_York,NA,US,41.27,-70
+2565,PO BOX,Silver Beach,MA,Barnstable County,America/New_York,NA,US,41.63,-70.64
+2568,STANDARD,Vineyard Haven,MA,Dukes County,America/New_York,NA,US,41.45,-70.6
+2571,STANDARD,Wareham,MA,Plymouth County,America/New_York,NA,US,41.76,-70.71
+2573,PO BOX,West Chop,MA,Dukes County,America/New_York,NA,US,41.45,-70.6
+2574,PO BOX,West Falmouth,MA,Barnstable County,America/New_York,NA,US,41.6,-70.64
+2575,PO BOX,West Tisbury,MA,Dukes County,America/New_York,NA,US,41.38,-70.67
+2576,STANDARD,West Wareham,MA,Plymouth County,America/New_York,NA,US,41.78,-70.75
+2584,PO BOX,Nantucket,MA,Nantucket County,America/New_York,NA,US,41.26,-70.01
+2601,STANDARD,Hyannis,MA,Barnstable County,America/New_York,NA,US,41.65,-70.29
+2630,STANDARD,Barnstable,MA,Barnstable County,America/New_York,NA,US,41.7,-70.3
+2631,STANDARD,Brewster,MA,Barnstable County,America/New_York,NA,US,41.76,-70.08
+2632,STANDARD,Centerville,MA,Barnstable County,America/New_York,NA,US,41.66,-70.34
+2633,STANDARD,Chatham,MA,Barnstable County,America/New_York,NA,US,41.67,-69.96
+2634,PO BOX,Centerville,MA,Barnstable County,America/New_York,NA,US,41.66,-70.34
+2635,STANDARD,Cotuit,MA,Barnstable County,America/New_York,NA,US,41.62,-70.44
+2636,STANDARD,Centerville,MA,Barnstable County,America/New_York,NA,US,41.64,-70.34
+2637,PO BOX,Cummaquid,MA,Barnstable County,America/New_York,NA,US,41.71,-70.27
+2638,STANDARD,Dennis,MA,Barnstable County,America/New_York,NA,US,41.73,-70.2
+2639,STANDARD,Dennis Port,MA,Barnstable County,America/New_York,NA,US,41.66,-70.13
+2641,PO BOX,East Dennis,MA,Barnstable County,America/New_York,NA,US,41.75,-70.16
+2642,STANDARD,Eastham,MA,Barnstable County,America/New_York,NA,US,41.83,-69.96
+2643,PO BOX,East Orleans,MA,Barnstable County,America/New_York,NA,US,41.8,-69.94
+2644,STANDARD,Forestdale,MA,Barnstable County,America/New_York,NA,US,41.68,-70.5
+2645,STANDARD,Harwich,MA,Barnstable County,America/New_York,NA,US,41.69,-70.07
+2646,STANDARD,Harwich Port,MA,Barnstable County,America/New_York,NA,US,41.67,-70.07
+2647,PO BOX,Hyannis Port,MA,Barnstable County,America/New_York,NA,US,41.63,-70.31
+2648,STANDARD,Marstons Mills,MA,Barnstable County,America/New_York,NA,US,41.67,-70.4
+2649,STANDARD,Mashpee,MA,Barnstable County,America/New_York,NA,US,41.65,-70.48
+2650,STANDARD,North Chatham,MA,Barnstable County,America/New_York,NA,US,41.7,-69.95
+2651,PO BOX,North Eastham,MA,Barnstable County,America/New_York,NA,US,41.88,-70
+2652,PO BOX,North Truro,MA,Barnstable County,America/New_York,NA,US,42.04,-70.09
+2653,STANDARD,Orleans,MA,Barnstable County,America/New_York,NA,US,41.79,-70
+2655,STANDARD,Osterville,MA,Barnstable County,America/New_York,NA,US,41.62,-70.38
+2657,STANDARD,Provincetown,MA,Barnstable County,America/New_York,NA,US,42.06,-70.2
+2659,STANDARD,South Chatham,MA,Barnstable County,America/New_York,NA,US,41.68,-70.02
+2660,STANDARD,South Dennis,MA,Barnstable County,America/New_York,NA,US,41.7,-70.15
+2661,PO BOX,South Harwich,MA,Barnstable County,America/New_York,NA,US,41.67,-70.04
+2662,PO BOX,South Orleans,MA,Barnstable County,America/New_York,NA,US,41.75,-69.99
+2663,PO BOX,South Wellfleet,MA,Barnstable County,America/New_York,NA,US,41.9,-69.97
+2664,STANDARD,South Yarmouth,MA,Barnstable County,America/New_York,NA,US,41.67,-70.2
+2666,PO BOX,Truro,MA,Barnstable County,America/New_York,NA,US,42,-70.06
+2667,STANDARD,Wellfleet,MA,Barnstable County,America/New_York,NA,US,41.93,-70.03
+2668,STANDARD,West Barnstable,MA,Barnstable County,America/New_York,NA,US,41.7,-70.37
+2669,PO BOX,West Chatham,MA,Barnstable County,America/New_York,NA,US,41.68,-69.99
+2670,STANDARD,West Dennis,MA,Barnstable County,America/New_York,NA,US,41.66,-70.16
+2671,STANDARD,West Harwich,MA,Barnstable County,America/New_York,NA,US,41.67,-70.11
+2672,PO BOX,West Hyannisport,MA,Barnstable County,America/New_York,NA,US,41.64,-70.31
+2673,STANDARD,West Yarmouth,MA,Barnstable County,America/New_York,NA,US,41.65,-70.24
+2675,STANDARD,Yarmouth Port,MA,Barnstable County,America/New_York,NA,US,41.7,-70.22
+2702,STANDARD,Assonet,MA,Bristol County,America/New_York,NA,US,41.78,-71.06
+2703,STANDARD,Attleboro,MA,Bristol County,America/New_York,NA,US,41.93,-71.29
+2712,PO BOX,Chartley,MA,Bristol County,America/New_York,NA,US,41.97,-71.18
+2713,PO BOX,Cuttyhunk,MA,Dukes County,America/New_York,NA,US,41.43,-70.89
+2714,PO BOX,Dartmouth,MA,Bristol County,America/New_York,NA,US,41.56,-71
+2715,STANDARD,Dighton,MA,Bristol County,America/New_York,NA,US,41.82,-71.16
+2717,STANDARD,East Freetown,MA,Bristol County,America/New_York,NA,US,41.75,-70.97
+2718,STANDARD,East Taunton,MA,Bristol County,America/New_York,NA,US,41.87,-71.01
+2719,STANDARD,Fairhaven,MA,Bristol County,America/New_York,NA,US,41.63,-70.9
+2720,STANDARD,Fall River,MA,Bristol County,America/New_York,NA,US,41.73,-71.12
+2721,STANDARD,Fall River,MA,Bristol County,America/New_York,NA,US,41.68,-71.15
+2722,PO BOX,Fall River,MA,Bristol County,America/New_York,NA,US,41.71,-71.1
+2723,STANDARD,Fall River,MA,Bristol County,America/New_York,NA,US,41.69,-71.13
+2724,STANDARD,Fall River,MA,Bristol County,America/New_York,NA,US,41.68,-71.18
+2725,STANDARD,Somerset,MA,Bristol County,America/New_York,NA,US,41.72,-71.19
+2726,STANDARD,Somerset,MA,Bristol County,America/New_York,NA,US,41.73,-71.15
+2738,STANDARD,Marion,MA,Plymouth County,America/New_York,NA,US,41.7,-70.76
+2739,STANDARD,Mattapoisett,MA,Plymouth County,America/New_York,NA,US,41.66,-70.8
+2740,STANDARD,New Bedford,MA,Bristol County,America/New_York,NA,US,41.64,-70.94
+2741,PO BOX,New Bedford,MA,Bristol County,America/New_York,NA,US,41.66,-70.93
+2742,PO BOX,New Bedford,MA,Bristol County,America/New_York,NA,US,41.66,-70.93
+2743,STANDARD,Acushnet,MA,Bristol County,America/New_York,NA,US,41.68,-70.9
+2744,STANDARD,New Bedford,MA,Bristol County,America/New_York,NA,US,41.61,-70.91
+2745,STANDARD,New Bedford,MA,Bristol County,America/New_York,NA,US,41.7,-70.95
+2746,STANDARD,New Bedford,MA,Bristol County,America/New_York,NA,US,41.66,-70.93
+2747,STANDARD,North Dartmouth,MA,Bristol County,America/New_York,NA,US,41.64,-71
+2748,STANDARD,South Dartmouth,MA,Bristol County,America/New_York,NA,US,41.55,-70.98
+2760,STANDARD,North Attleboro,MA,Bristol County,America/New_York,NA,US,41.97,-71.33
+2761,PO BOX,North Attleboro,MA,Bristol County,America/New_York,NA,US,41.97,-71.33
+2762,STANDARD,Plainville,MA,Norfolk County,America/New_York,NA,US,42,-71.33
+2763,STANDARD,Attleboro Falls,MA,Bristol County,America/New_York,NA,US,41.97,-71.31
+2764,STANDARD,North Dighton,MA,Bristol County,America/New_York,NA,US,41.85,-71.15
+2766,STANDARD,Norton,MA,Bristol County,America/New_York,NA,US,41.96,-71.18
+2767,STANDARD,Raynham,MA,Bristol County,America/New_York,NA,US,41.93,-71.04
+2768,PO BOX,Raynham Center,MA,Bristol County,America/New_York,NA,US,41.93,-71.04
+2769,STANDARD,Rehoboth,MA,Bristol County,America/New_York,NA,US,41.83,-71.26
+2770,STANDARD,Rochester,MA,Plymouth County,America/New_York,NA,US,41.73,-70.81
+2771,STANDARD,Seekonk,MA,Bristol County,America/New_York,NA,US,41.81,-71.33
+2777,STANDARD,Swansea,MA,Bristol County,America/New_York,NA,US,41.75,-71.18
+2779,STANDARD,Berkley,MA,Bristol County,America/New_York,NA,US,41.85,-71.08
+2780,STANDARD,Taunton,MA,Bristol County,America/New_York,NA,US,41.9,-71.09
+2783,UNIQUE,Taunton,MA,Bristol County,America/New_York,NA,US,41.9,-71.09
+2790,STANDARD,Westport,MA,Bristol County,America/New_York,NA,US,41.66,-71.1
+2791,PO BOX,Westport Point,MA,Bristol County,America/New_York,NA,US,41.52,-71.07
+5501,UNIQUE,Andover,MA,Essex County,America/New_York,NA,US,42.65,-71.14
+5544,UNIQUE,Andover,MA,Essex County,America/New_York,NA,US,42.65,-71.14
