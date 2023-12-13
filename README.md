@@ -1,3 +1,5 @@
+**Team Members:** Himani Tyagi, Jaishankar Govindaraj, Leonardo Trucios Cevasco, Srithijaa Sankepally, Yumeng (Emelyn) Tang
+
 **Project title :** Global Pandemic And The Government - COVID-19’s Impact On Boston Government Employees’ Earnings
 
 **Problem Definition:** Evaluate the Boston government sector to understand the impact of the global pandemic, COVID-19, on the employees’ earnings. 
